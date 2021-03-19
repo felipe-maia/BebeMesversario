@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BebeMesversario</string>
+    <string name="titulo">Titulo:</string>
+    <string name="todo">TODO</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="bem_vindo">Bem Vindo!</string>
+    <string name="galeria">Galeria</string>
+    <string name="nome">Nome:</string>
+    <string name="nascimento">Nascimento:</string>
+    <string name="criar">Criar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="editar">Editar</string>
+    <string name="descri_o">Descrição:</string>
+</resources>
